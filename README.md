@@ -16,7 +16,7 @@ Before diving into the projects, here is my official *Internship Offer Letter* f
 
 # 📊 **Projects Overview** 📊
 
-### 🌍 **1. World Population Growth and Distribution** 🌍
+### 🌍 **1. Understanding Population Shifts** 🌍
 *Description:*  
 In this project, I analyzed global population growth and its distribution across different countries. I gathered data from global sources, performed exploratory data analysis (EDA), and visualized population trends over time. The analysis also focused on how population distribution impacts economic and social factors in various regions.
 
@@ -33,7 +33,7 @@ In this project, I analyzed global population growth and its distribution across
 
 ---
 
-### 🚢 **2. Titanic EDA (Exploratory Data Analysis)** 🚢
+### 🚢 **2. Titanic Insights & Lesson For Modern Safety Measures** 🚢
 *Description:*  
 This project involved performing exploratory data analysis on the famous Titanic dataset to identify patterns that could predict survival rates. The project aimed to understand how various features such as age, gender, and class influenced survival chances.
 
@@ -49,7 +49,7 @@ This project involved performing exploratory data analysis on the famous Titanic
 
 ---
 
-### 💼 **3. Bank Marketing Using Decision Trees** 💼
+### 💼 **3. Smart Banking Decisions** 💼
 *Description:*  
 In this project, I worked on predicting the success of marketing campaigns for a bank based on customer information. Using a Decision Tree classifier, I developed a model to predict whether a customer would subscribe to a term deposit based on features such as age, job, and campaign contact details.
 
@@ -65,7 +65,7 @@ In this project, I worked on predicting the success of marketing campaigns for a
 
 ---
 
-### 🐦 **4. Twitter Social Media Sentiment Analysis** 🐦
+### 🐦 **4. Social Buzz Sentiment Analysis** 🐦
 *Description:*  
 This project focused on analyzing sentiment from Twitter data to understand public opinion on various topics. I used Natural Language Processing (NLP) techniques to preprocess and analyze tweets, and built a sentiment classification model to categorize tweets as positive, negative, or neutral.
 
